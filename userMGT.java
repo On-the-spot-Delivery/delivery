@@ -6,4 +6,3 @@ segun
 tobi
 alex
 maurice
-femi
